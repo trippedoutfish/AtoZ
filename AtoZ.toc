@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: AtoZ
+## Notes: Guess the word!
+## Author: Chaud, Updated By Colonyl3, Updated further by trippedoutfish
+## Version: 3.0
+words.lua
+AtoZ.lua
